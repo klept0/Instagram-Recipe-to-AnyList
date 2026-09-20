@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Instagram Recipe → AnyList
-// @namespace    https://klept0.local/userscripts
+// @namespace    https://klept0.com
 // @version      1.1.0
 // @description  Scrape recipe captions from Instagram posts/reels and one-click copy Title/Ingredients/Steps for pasting into AnyList
 // @author       klept0
